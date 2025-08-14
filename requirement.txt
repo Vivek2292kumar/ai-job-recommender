@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+PyPDF2
+apify-client
+sentence-transformers
+faiss-cpu
+google-generativeai
